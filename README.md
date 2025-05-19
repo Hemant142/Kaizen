@@ -3,7 +3,7 @@
 A modern marketing analytics and lead management dashboard built with React and Vite.
 
 ## Live Demo
-[Deployed App](https://your-deployed-link.com)
+[Deployed App](https://kaizen-orcin.vercel.app/)
 
 ## GitHub Repository
 [https://github.com/your-username/kaizen](https://github.com/your-username/kaizen)
